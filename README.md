@@ -43,6 +43,7 @@ I am about to explain the _specifics_ for Lab Assignment three, four, and five.
 Each assignment requires us to _design_ a composition like for example, I have to make one that is within the theme of a TV.
 Each assignment even includes examples for some assistance on typing a code for each one.
 Each assignment even have us _use_ a link called **The Adobe Color** to select groups of colors using different systems.
+[Visit Adobe Color] (https://color.adobe.com/create/color-wheel)
 Each assignment _shows_ me how to turn in an assignment.
 >I struggled figuring out how to turn each one in when I first started this **MAGD class.**
 >I would have to _compress_ my created assignment folder that should be named by your last name.
